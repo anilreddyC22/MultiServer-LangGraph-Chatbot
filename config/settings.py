@@ -1,0 +1,5 @@
+STUDENT_SERVICE = "http://localhost:8081/students"
+PROFESSOR_SERVICE = "http://localhost:8082/professors"
+COURSE_SERVICE = "http://localhost:8083/courses"
+WEBFLUX_SERVICE = "http://localhost:8082/api/products"
+JSONTOJAVA_SERVICE = "http://localhost:8083/api/movies"
